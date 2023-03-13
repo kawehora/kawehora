@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kawehora
-- 👀 I’m interested in aprender
-- 🌱 I’m currently learnin HTML5 e CSS
+- 👀 I’m interested in aprender 
+- 🌱 Atualmente tenho conhecimento em HTML/CSS/JavaS
+-  Aprendendo línguas C++ / MySQL
 - 💞️ I’m looking to collaborate on  para minha ladding page
-- 📫 How to reach me manda mensagem
+- 📫 Qualquer interesse só entrar em contato 
 
 <!---
 kawehora/kawehora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
