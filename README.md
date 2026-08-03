@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kawehora
-- 👀 I’m interested in aprender 
-- 🌱 Atualmente tenho conhecimento em HTML/CSS/JavaS
+- 👋 Oi,eu sou @kawehora
+- 👀 Eu tenho interesse em aprender 
+- 🌱 Atualmente tenho conhecimento em HTML/CSS/JavaS/Flutter
 -  Aprendendo línguas C++ / MySQL
-- 💞️ I’m looking to collaborate on  para minha ladding page
 - 📫 Qualquer interesse só entrar em contato 
 
 <!---
