@@ -4,7 +4,3 @@
 -  Aprendendo línguas  MySQL / Node.Js
 - 📫 Qualquer interesse só entrar em contato 
 
-<!---
-kawehora/kawehora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
